@@ -3,11 +3,11 @@
 /**
  * main - Entry Point
  * Return: 0
- * 
+ *
  */
 int main(void)
 {
-	char lower ='a';
+	char lower = 'a';
 
 
 	while (lower <= 'z')
